@@ -1,4 +1,4 @@
-### Hello, World!
+### 👋 Hello, World!
 
 ### Languages and Tools:
 
@@ -17,7 +17,9 @@
 
 <img align="left" alt="orlandovoliveros's Github Stats" src="https://github-readme-stats.vercel.app/api?username=orlandovoliveros&show_icons=true&hide_border=true" />
 
-### Recent Github Activity
+---
+
+### Recent Activities
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
