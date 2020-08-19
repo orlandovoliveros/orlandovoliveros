@@ -1,5 +1,7 @@
 ### 👋 Hello, World!
 
+![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
+
 ### Languages and Tools:
 
 <img align="left" width="26px" lt="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
@@ -15,11 +17,10 @@
 <img align="left" width="26px" lt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" width="26px" lt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="orlandovoliveros's Github Stats" src="https://github-readme-stats.vercel.app/api?username=orlandovoliveros&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=orlandovoliveros&show_icons=true&hide_border=true" />
 
----
-
-### Recent Activities
+<!-- <br /> -->
+<!-- ### Recent Activities -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
